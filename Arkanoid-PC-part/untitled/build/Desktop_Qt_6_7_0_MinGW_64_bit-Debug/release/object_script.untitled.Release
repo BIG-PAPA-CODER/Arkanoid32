@@ -1,0 +1,10 @@
+release/ball.o
+release/breakout.o
+release/breakout_medium.o
+release/brick.o
+release/main.o
+release/mainwindow.o
+release/paddle.o
+release/wykresy.o
+release/moc_mainwindow.o
+release/moc_wykresy.o

@@ -1,0 +1,10 @@
+debug/ball.o
+debug/breakout.o
+debug/breakout_medium.o
+debug/brick.o
+debug/main.o
+debug/mainwindow.o
+debug/paddle.o
+debug/wykresy.o
+debug/moc_mainwindow.o
+debug/moc_wykresy.o
